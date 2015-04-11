@@ -7,5 +7,7 @@
             "email": "igordepaula@adminweb.com.br"
         }
     ],
-    "require": {}
+    "require": {
+    	"phpex/mvc":"dev-master"
+    }
 }
