@@ -1,0 +1,11 @@
+{
+    "name": "phpex/inspector",
+    "description": "Inspect M/V/C Ojects to run its.",
+    "authors": [
+        {
+            "name": "IgorDePaula",
+            "email": "igordepaula@adminweb.com.br"
+        }
+    ],
+    "require": {}
+}
