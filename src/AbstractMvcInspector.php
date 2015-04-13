@@ -4,7 +4,7 @@ namespace Inspector;
 
 use ArrayObject;
 
-abstract class AbstractInspector implements InspectorInterface {
+abstract class AbstractInspector {
 
     protected $pattern = "/@(.*)\n/";
     protected $object = null;

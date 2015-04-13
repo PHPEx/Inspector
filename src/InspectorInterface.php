@@ -2,7 +2,7 @@
 
 namespace Inspector;
 
-interface InspectorInterface
+interface InspectorInterface 
 {
-	
+	public function cleanParam($params);
 }

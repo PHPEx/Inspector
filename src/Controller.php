@@ -5,7 +5,7 @@ namespace Inspector;
 use Mvc\AbstractController;
 use ReflectionClass;
 
-class Controller extends AbstractInspector {
+class Controller extends AbstractMvcInspector {
 
     public function parse() {
         $methods = $this->getObject()->getMethods();
