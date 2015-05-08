@@ -4,7 +4,7 @@ namespace Inspector;
 
 use ArrayObject;
 
-abstract class AbstractInspector {
+abstract class AbstractMvcInspector {
 
     protected $pattern = "/@(.*)\n/";
     protected $object = null;
